@@ -95,7 +95,7 @@
 
 </td><td valign="top" width="50%">
                                  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratayyy&layout=compact&theme=chartreuse-dark&hide_border=false&bg_color=0D1117)](https://github.com/Arbaz86/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratayyy&layout=compact&theme=chartreuse-dark&hide_border=false&bg_color=0D1117)](https://github.com/pratayyy/github-readme-stats)
                                  
 
 </td></tr></table>  
