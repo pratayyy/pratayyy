@@ -91,11 +91,11 @@
 <table align="center"><tr><td valign="top" width="50%">
 
 
-![Arbaz86's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arbaz86&show_icons=true&theme=highcontrast)
+![pratayyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratayyy&show_icons=true&theme=highcontrast)
 
 </td><td valign="top" width="50%">
                                  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz86&layout=compact&theme=chartreuse-dark&hide_border=false&bg_color=0D1117)](https://github.com/Arbaz86/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratayyy&layout=compact&theme=chartreuse-dark&hide_border=false&bg_color=0D1117)](https://github.com/Arbaz86/github-readme-stats)
                                  
 
 </td></tr></table>  
