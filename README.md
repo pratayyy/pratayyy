@@ -1,4 +1,6 @@
-<p align="center">Hey 👋, I'm Pratay Roy</p>  
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="banner"/>
+
+<h4 align="center"> Hey 👋, I'm Pratay Roy</h4>  
 
 <br />
 
@@ -99,9 +101,6 @@
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=pratayyy&show_icons=true&rank_icon=github&hide=stars,issues&show=prs_merged,prs_merged_percentage" alt="pratayyy" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratayyy&" alt="pratayyy" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratayyy&layout=compact&langs_count=8&card_width=440" alt="pratayyy" />
 </div>
 
