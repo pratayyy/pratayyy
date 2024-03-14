@@ -101,7 +101,7 @@
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=pratayyy&show_icons=true&rank_icon=github&hide=stars,issues&show=prs_merged,prs_merged_percentage" alt="pratayyy" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratayyy&" alt="pratayyy" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratayyy&layout=compact&langs_count=8&card_width=440&size_weight=0&count_weight=1" alt="pratayyy" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratayyy&layout=compact&langs_count=8&card_width=440&size_weight=0.5&count_weight=1" alt="pratayyy" />
 </div>
 
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
